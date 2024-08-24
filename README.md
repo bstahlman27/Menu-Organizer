@@ -85,4 +85,4 @@ Contributions and ideas are always welcome, especially if it's to help resolve s
 
 License
 
-I doubt enough people will see this for me to worry about licensing.
+No current license. Anyone can use or modify this code.
