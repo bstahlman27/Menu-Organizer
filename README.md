@@ -37,7 +37,7 @@ Drink: Name, size (in oz.), description, calories, and price.
 After adding items, you can choose to save the menu, which will be written to a file named menu.txt.
 
 Example Menu
-An example of what the generated menu file might look like:
+An example of what the generated menu file might look like (please use code view):
 
 Awesome's Restaurant
 
@@ -73,4 +73,4 @@ Contributing
 Contributions and ideas are always welcome, especially if it's to help resolve some of those issues.
 
 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+I doubt enough people will see this for me to worry about licensing.
