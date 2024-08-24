@@ -2,9 +2,10 @@ Restaurant Menu Creator
 This is a Java-based console application that allows users to create and manage a restaurant menu. The application adds food and drink items with various attributes like name, description, calories, and price. The menu is then saved to a text file (menu.txt).
 
 Features
-Item Categories: Supports adding food items categorized as entrees, sides, desserts, appetizers, and kids' menu. Drinks can also be added with customizable sizes.
-Validation: Ensures valid input for all fields (e.g., name cannot be empty, calories must be an integer, and price must be a decimal number).
-File Output: Automatically generates a formatted text file (menu.txt) containing the full menu organized by category.
+- Item Categories: Supports adding food items categorized as entrees, sides, desserts, appetizers, and kids' menu. Drinks can also be added with customizable sizes.
+- Validation: Ensures valid input for all fields (e.g., name cannot be empty, calories must be an integer, and price must be a decimal number).
+- File Output: Automatically generates a formatted text file (menu.txt) containing the full menu organized by category.
+
 Table of Contents
 - Installation
 - Usage
