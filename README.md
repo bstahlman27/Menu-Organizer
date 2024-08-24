@@ -1,4 +1,5 @@
 Restaurant Menu Creator
+
 This is a Java-based console application that allows users to create and manage a restaurant menu. The application adds food and drink items with various attributes like name, description, calories, and price. The menu is then saved to a text file (menu.txt).
 
 
